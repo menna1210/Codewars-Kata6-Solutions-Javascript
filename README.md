@@ -1,0 +1,1 @@
+# Codewars-Kata6-Solutions-Javascript
